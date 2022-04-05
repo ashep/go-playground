@@ -5,5 +5,5 @@ This is a repo where I am playing around Go programming language, data structure
 
 ## Authors
 
-- [Alexander Shepetko](https://shepetko.com)
+- [Oleksandr Shepetko](https://shepetko.com)
 
